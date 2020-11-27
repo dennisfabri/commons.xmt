@@ -10,4 +10,4 @@ care of the rest.
 
 ## Origin
 This documentation is based on the original documentation from <https://wiki.pmease.com/display/xmt/Documentation+Home>. 
-The original source is based on work from <pmease.com>.
+The original source is based on work from <https://pmease.com>.
