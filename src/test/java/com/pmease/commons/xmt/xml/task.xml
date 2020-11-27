@@ -1,0 +1,7 @@
+<com.pmease.commons.xmt.bean.CompileTask version="1.0">
+  <priority>HIGH</priority>
+  <srcFiles>
+    <string>Class1.java</string>
+    <string>Class2.java</string>
+  </srcFiles>
+</com.pmease.commons.xmt.bean.CompileTask>

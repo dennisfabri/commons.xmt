@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<com.pmease.commons.xmt.bean.Bean5 version="0.3.0">
+  <prioritized>true</prioritized>
+  <age>34</age>
+  <loginName>robin</loginName>
+  <fullName>Robin Shine</fullName>
+</com.pmease.commons.xmt.bean.Bean5>

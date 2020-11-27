@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="commons.xmt">
+	<skin>
+		<groupId>org.apache.maven.skins</groupId>
+		<artifactId>maven-fluido-skin</artifactId>
+		<version>1.9</version>
+	</skin>
+
+	<bannerLeft>
+		<name>commons.xmt</name>
+		<href>https://github.com/</href>
+	</bannerLeft>
+
+	<publishDate position="right" />
+	<version position="right" />
+
+	<body>
+		<menu name="Documentation">		
+			<item name="What's xmt" href="whats-xmt.html" />
+			<item name="XMT License" href="license.html" />
+			<item name="Get XMT" href="get-xmt.html" />
+			<item name="Getting started" href="getting-started.html" />
+			<item name="Multi-tier Migration" href="multitier-migration.html" />
+			<item name="Change Class Name" href="change-class-name.html" />
+			<item name="Save Migration Result" href="save-migration-result.html" />
+			<item name="Use a Custom XStram Instance" href="custom-xstream-instance.html" />
+		</menu>
+		<menu ref="reports" />
+	</body>
+</project>
