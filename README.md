@@ -8,6 +8,14 @@ change fields of the class, you just provide a migration method in your class to
 document (DOM representation of serialized XML) from previous version to current version, and XMT will take 
 care of the rest.
 
+- [What's xmt](src/site/markdown/whats-xmt.md)
+- [Get XMT](src/site/markdown/get-xmt.md)
+- [Getting started](src/site/markdown/getting-started.md)
+- [Multi-tier Migration](src/site/markdown/multitier-migration.md)
+- [Change Class Name](src/site/markdown/change-class-name.md)
+- [Save Migration Result](src/site/markdown/save-migration-result.md)
+- [Use a Custom XStram Instance](src/site/markdown/custom-xstream-instance.md)
+
 ## Origin
 This documentation is based on the original documentation from <https://wiki.pmease.com/display/xmt/Documentation+Home>. 
 The original source is based on work from <https://pmease.com>.
