@@ -29,7 +29,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub dennisfabri Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/dennisfabri/maven-repo</url>
+			<url>https://maven.pkg.github.com/dennisfabri/commons.xmt</url>
 		</repository>
 	</distributionManagement>
 
